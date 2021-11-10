@@ -5,11 +5,11 @@
 }
 
 .area-texto {
-    width: 60%;
+    width: 50%;
 }
 
 .imagen-home{
-    width: 40%;
+    width: 50%;
     height: 80%;
    
 }
@@ -50,9 +50,16 @@ margin-top: 5%;
 }
 .contenedor-secundario{
     width: 100%;
-    height: 100%;
+    height: 56%;
     background-color: white;
     margin-top: 5%;
+}
+.imagen-azul img{
+    width: 100%;
+    height: 100%;
+    
+
+
 }
 
 .wraper-images{
@@ -61,3 +68,21 @@ margin-top: 5%;
 .texto-motivador{
     margin-top: 15%;
 }
+
+.divisor-home{
+    width: 100%;
+    height: 40px;
+    background-color: black;
+}
+
+.logos-footer img{
+    width: 20px;
+    height: 20px;
+}
+
+/* .home-izquierda{
+    width: 60%;
+}
+.home-derecha{
+    width: 40%;
+} */
